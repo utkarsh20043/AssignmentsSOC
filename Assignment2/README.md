@@ -8,4 +8,5 @@ list as given in the question, so I used a list comprehension in Python.
 ***In carmichael number, is an odd composite number n which satisfies Fermat's little theorem
  a^(n-1)-1=0 (mod n) 	
 for every choice of a satisfying (a,n)=1 (i.e., a and n are relatively prime) with 1<a<n. Hence I used the sage math function 'all' to check whether 
-the iterator condition is true or false. Rest is just mathematical equation mentioned above is used in if statement.
+the iterator condition is true or false. Rest is just mathematical equation mentioned above is used in if statement. Iteration is conducted twice by using if in a
+if statement. the number satisfying condition are stored in the list through append.
