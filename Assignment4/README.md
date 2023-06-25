@@ -14,6 +14,8 @@ PROCESS :
     ```python
     docker run -p 9998:9998 utkarsh2004
     ```
+    This way you expose the port inside the container to the files outside container and -p command helps the inside
+    program connnect to the program with the same port outside container.
 ____________________________________________________________________________________________________________________
 
 2. STAGE-II :-
