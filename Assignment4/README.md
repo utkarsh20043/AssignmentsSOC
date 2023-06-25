@@ -29,5 +29,4 @@ ________________________________________________________________________________
 * It will ask for 'Enter integer:'. give the input number.
 _________________________________________________________________________________________________________________
 
-***YOU WILL SEE THE OUTPUT PRIME FACTORISATION OF NUMBER. ALSO THE CONNECTION WAS ESTABLISHED WITH THE SOCKET
-PROGRAM MESSAGE IN THE DOCKER RUN TERMINAL.
+***YOU WILL SEE THE OUTPUT PRIME FACTORISATION OF NUMBER. MEANS, THE CONNECTION IS MADE WITH THE SOCKET PROGRAM INSIDE CONTAINER i.e. CLOUDSERVER.
