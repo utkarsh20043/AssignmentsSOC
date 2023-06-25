@@ -2,7 +2,7 @@
 
 * deploy the cloudserver in the docker container:
 PROCESS :
-1. Install the cloudserver.py and the DOckerfile file from the repository.
+1. Install the cloudserver.py and the Dockerfile file from the repository.
 2. Create a directory(say 'utkarsh2004') and copy both cloudserver and dockerfile into that directory.
     ***NOTE : make sure you create directory in the Linux folder, otherwise it will give error: file not found.
 3. Make sure your Docker engine is running.
