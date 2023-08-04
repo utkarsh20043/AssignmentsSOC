@@ -18,4 +18,4 @@ RUN pip install numpy
 RUN adduser -u 5678 --disabled-password --gecos "" appuser && chown -R appuser /app
 USER appuser
 
-CMD ["python", "CS.py"]
+CMD ["python", "cloud_server.py"]
